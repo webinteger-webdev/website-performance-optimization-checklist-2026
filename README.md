@@ -1,6 +1,3 @@
-# website-performance-optimization-checklist-2026
-Die ultimative Checkliste für Core Web Vitals, LCP und CLS Optimierung. Masterclass Tutorial: 👇
-
 # ⚡ Website Performance Optimization Checklist (2026)
 
 A curated list of techniques to achieve 100/100 on Google PageSpeed Insights.
